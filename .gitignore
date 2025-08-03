@@ -1,0 +1,18 @@
+# Maven build
+/target/
+
+# TestNG output
+/test-output/
+
+# Eclipse config
+.settings/
+.classpath
+.project
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# IDE metadata
+.idea/
+*.iml
