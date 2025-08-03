@@ -1,6 +1,6 @@
-# Janitri QA Internship Assignment
+# Janitri QA Assignment
 
-This repository contains automation test scripts created as part of the QA Internship assignment for **Janitri Innovations**.
+This repository contains automation test scripts created as part of the QA assignment for **Janitri Innovations**.
 
 ## 📌 Tech Stack
 
@@ -8,7 +8,6 @@ This repository contains automation test scripts created as part of the QA Inter
 - Selenium WebDriver
 - TestNG
 - Maven
-- OpenCSV (for data-driven testing)
 - Firefox (Primary Browser)
 - GitHub Actions (Optional for CI)
 
@@ -21,12 +20,6 @@ This repository contains automation test scripts created as part of the QA Inter
   - Password masking/unmasking toggle
 - Negative Scenarios
   - Form field validation and alert detection
-  - Screenshot capture on failure
-- Data-Driven Testing
-  - Reads user data from CSV using OpenCSV
-- Reporting
-  - Auto-generated `report.txt` logging all steps, failures, skipped actions
-  - Screenshots stored in `/screenshots` directory
 
 ## 🚀 How to Run
 
